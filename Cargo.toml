@@ -1,0 +1,16 @@
+[package]
+name = "jmphash"
+version = "0.1.0"
+authors = ["Jerome Froelich <jeromefroe@hotmail.com>"]
+description = "An implementation of the jump consistent hash algorithim"
+homepage = "https://github.com/jeromefroe/jmphash-rs"
+repository = "https://github.com/jeromefroe/jmphash-rs.git"
+documentation = "https://docs.rs/jmphash/"
+readme = "README.md"
+license = "MIT"
+keywords = ["jump", "hash", "consistent", "hashing"]
+
+[features]
+nightly = []
+
+[dependencies]
