@@ -1,7 +1,7 @@
 # Jump Consistent Hash
 
 [![Build Status](https://travis-ci.org/jeromefroe/jmphash-rs.svg?branch=master)](https://travis-ci.org/jeromefroe/jmphash-rs)
-[![Coverage Status](https://coveralls.io/repos/github/jeromefroe/jmphash-rs/badge.svg?branch=master)](https://coveralls.io/github/jeromefroe/jmphash-rs?branch=master)
+[![codecov](https://codecov.io/gh/jeromefroe/jmphash-rs/branch/master/graph/badge.svg)](https://codecov.io/gh/jeromefroe/jmphash-rs)
 [![crates.io](https://img.shields.io/crates/v/jmphash.svg)](https://crates.io/crates/jmphash/)
 [![docs.rs](https://docs.rs/jmphash/badge.svg)](https://docs.rs/jmphash/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jeromefroe/jmphash-rs/master/LICENSE)
