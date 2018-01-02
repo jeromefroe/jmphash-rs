@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 //! An implementation of the jump consistent hash algorithim as described in
-//! [A Fast, Minimal Memory, Consistent Hash Algorithim] (https://arxiv.org/pdf/1406.2294v1.pdf).
+//! [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294v1.pdf).
 //!
 //! ## Example
 //!
