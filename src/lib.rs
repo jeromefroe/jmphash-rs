@@ -55,9 +55,9 @@ pub fn jump_hash(mut key: u64, num_buckets: i64) -> i64 {
     let mut j = 0;
     while j < num_buckets {
         b = j;
-        key = key.wrapping_mul(2862933555777941757).wrapping_add(1);
-        j = ((b.wrapping_add(1) as f64) * ((1i64 << 31) as f64) /
-             ((key >> 33).wrapping_add(1) as f64)) as i64;
+        key = key.wrapping_mul(2_862_933_555_777_941_757).wrapping_add(1);
+        j = ((b.wrapping_add(1) as f64) * ((1i64 << 31) as f64)
+            / ((key >> 33).wrapping_add(1) as f64)) as i64;
     }
 
     b
